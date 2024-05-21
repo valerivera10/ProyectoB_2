@@ -1,0 +1,106 @@
+[
+    {
+        "question": "Que nivel de calidad estas buscando?",
+        "options": [
+            { "image": "Img/answer-1-1.png" ,"text": "Calidad Optima", "cost": 1000},
+            { "image": "Img/answer-1-2.png" ,"text": "Buena relacion calidad/precio", "cost": 800 },
+            { "image": "Img/answer-1-3.png" ,"text": "No me importa tanto la calidad", "cost": 1200 }
+            
+        ]
+    },
+    {
+        "question": "Que tipo de App necesitas?",
+        "options": [
+            { "image": "Img/answer-2-3.png" ,"text": "Aplicacion Android", "cost": 500 },
+            { "image": "Img/answer-2-2.png" ,"text": "Aplicacion iOS", "cost": 1000 },
+            { "image": "Img/answer-2-3.png" ,"text": "Aplicacion Windows Phone", "cost": 1500 },
+            { "image": "Img/answer-2-4.png" ,"text": "Aplicacion Android + iOS", "cost": 2000 }
+        ]
+    },
+    {
+        "question": "Que diseño quieres que tenga tu App?",
+        "options": [
+            { "image": "Img/answer-3-1.png" ,"text": "Interfaz sencilla", "cost": 500 },
+            { "image": "Img/answer-3-2.png" ,"text": "Interfaz personalizada", "cost": 1000 },
+            { "image": "Img/answer-3-3.png" ,"text": "Interfaz replica de la web", "cost": 1500 },
+            { "image": "Img/answer-3-4.png" ,"text": "No necesito diseño", "cost": 2000 }
+        ]
+    }
+    ,
+    {
+        "question": "Como quieres sacar beneficio a tu App?",
+        "options": [
+            { "image": "Img/answer-4-1.png" ,"text": "Aplicacion gratuita con publicidad", "cost": 500 },
+            { "image": "Img/answer-4-2.png" ,"text": "Aplicacion de pago", "cost": 1000 },
+            { "image": "Img/answer-4-3.png" ,"text": "Compras dentro de la app", "cost": 1500 },
+            { "image": "Img/answer-4-4.png" ,"text": "Otros / No lo sé todavia", "cost": 2000 }
+        ]
+    }
+    ,
+    {
+        "question": "¿Tu App necesita un sistema de login?",
+        "options": [
+            { "image": "Img/answer-5-1.png" ,"text": "Si, con redes sociales y email", "cost": 500 },
+            { "image": "Img/answer-5-2.png" ,"text": "Si, con email", "cost": 1000 },
+            { "image": "Img/answer-5-3.png" ,"text": "No", "cost": 1500 },
+            { "image": "Img/answer-5-4.png" ,"text": "No lo sé todavia", "cost": 2000 }
+        ]
+    }
+    ,
+    {
+        "question": "¿Tu App tiene que estar integrada con un sitio web?",
+        "options": [
+            { "image": "Img/answer-6-1.png" ,"text": "Si", "cost": 500 },
+            { "image": "Img/answer-6-2.png" ,"text": "No", "cost": 1000 },
+            { "image": "Img/answer-6-3.png" ,"text": "No lo se", "cost": 1500 }
+            
+        ]
+    }
+    ,
+    {
+        "question": "¿Los usuarios tienen sus propios perfiles?",
+        "options": [
+            { "image": "Img/answer-7-1.png" ,"text": "Si", "cost": 500 },
+            { "image": "Img/answer-7-2.png" ,"text": "No", "cost": 1500 },
+            { "image": "Img/answer-7-3.png" ,"text": "No lo sé", "cost": 2000 }
+        ]
+    }
+    ,
+    {
+        "question": "¿Tu app necesita un panel de administracion?",
+        "options": [
+            { "image": "Img/answer-8-1.png" ,"text": "Si", "cost": 500 },
+            { "image": "Img/answer-8-2.png" ,"text": "No", "cost": 1500 },
+            { "image": "Img/answer-8-3.png" ,"text": "No lo sé", "cost": 2000 }
+        ]
+    }
+    ,
+    {
+        "question": "¿Que idiomas usara tu aplicacion?",
+        "options": [
+            { "image": "Img/answer-9-1.png" ,"text": "Un unico idioma", "cost": 500 },
+            { "image": "Img/answer-9-2.png" ,"text": "Bilingue", "cost": 1500 },
+            { "image": "Img/answer-9-3.png" ,"text": "Multilingue", "cost": 2000 }
+        ]
+    }
+    ,
+    {
+        "question": "¿En que estado se encuentra tu proyecto?",
+        "options": [
+            { "image": "Img/answer-10-1.png" ,"text": "Solo es una idea", "cost": 500 },
+            { "image": "Img/answer-10-2.png" ,"text": "App en desarrollo", "cost": 1500 },
+            { "image": "Img/answer-10-3.png" ,"text": "Boceto ya preparado", "cost": 2000 },
+            { "image": "Img/answer-10-4.png" ,"text": "App ya desarrollada", "cost": 2000 }
+        ]
+    }
+    ,
+    {
+        "question": "El costo estimado de tu app es",
+        "options": [
+            { "text": "Bien! ¡Hemos terminado!"},
+            { "text": "¡Compártenos si te ha gustado!"},
+            { "text": "Editar respuestas"}
+        ]
+    }
+    
+]

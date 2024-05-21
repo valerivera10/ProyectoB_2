@@ -1,0 +1,85 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(79, 79, 79);
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+}
+
+
+.cost {
+    
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+}
+
+.questions {
+   
+    margin-top: 50px;
+    width: 60%;
+}
+
+.info {
+    margin: 20px;
+    margin: 20px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    width: 60%;
+    background-color:  rgb(79, 79, 79);
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: left;
+}
+
+.titulo {
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    color: white;
+}
+
+
+
+.option-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.option-image {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+}
+
+button {
+    padding: 10px;
+    font-size: 16px;
+}
+
+.parte8 {
+    display: flex;
+    gap: 20px; /* Espacio entre las cajas */
+}
+
+.caja1, .caja2, .caja3 {
+    flex: 1; /* Hace que cada caja tome un espacio igual dentro del contenedor */
+    padding: 20px;
+    border: 1px solid #ccc; /* Bordes para visualización */
+    background-color:  rgb(79, 79, 79);
+    ; /* Fondo para visualización */
+}
